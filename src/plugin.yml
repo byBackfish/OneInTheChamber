@@ -1,0 +1,9 @@
+name: OneInTheChamber
+authors:
+  - byBackfish
+version: 0.1.0
+main: de.bybackfish.OneInTheChamber
+database: false
+description: OneInTheChamber made for Sigma Jello
+commands:
+  setloc:
