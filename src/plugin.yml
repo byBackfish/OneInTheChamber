@@ -4,6 +4,6 @@ authors:
 version: 0.1.0
 main: de.bybackfish.OneInTheChamber
 database: false
-description: OneInTheChamber made for Sigma Jello
+description: OneInTheChamber
 commands:
   setloc:
